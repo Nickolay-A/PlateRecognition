@@ -1,3 +1,7 @@
 *.zip
 *.h5
 *.jpg
+*.xml
+
+masks
+pics
