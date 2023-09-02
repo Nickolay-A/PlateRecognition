@@ -2,6 +2,9 @@
 *.h5
 *.jpg
 *.xml
+*.csv
+*.zip
 
-masks
-pics
+masks_xml
+masks_jpg
+pics_jpg
