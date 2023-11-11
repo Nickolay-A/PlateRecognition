@@ -9,6 +9,8 @@ masks_xml
 masks_jpg
 masks_jpg_predict
 pics_jpg
+normalized_nn_plates_jpg
+normalized_hands_plates_jpg
 
 Crawler.ipynb
 test_images
